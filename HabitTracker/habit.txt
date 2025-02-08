@@ -1,0 +1,3 @@
+drink water,30,1
+read book,30,0
+go to gym,30,1
